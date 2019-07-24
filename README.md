@@ -1,2 +1,2 @@
 # react-todo
-Learning the basics of ReactJs
+Learning the basics of ReactJS
